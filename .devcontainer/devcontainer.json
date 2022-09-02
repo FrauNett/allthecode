@@ -60,9 +60,6 @@
 			"source.fixAll": true
 		},
 		"workbench.iconTheme": "vscode-icons",
-		"terminal.integrated.defaultProfile.linux": "zsh",
-		"terminal.integrated.fontFamily": "MesloLGS NF",
-		"terminal.integrated.defaultProfile.osx": "zsh",
 		"terminal.integrated.gpuAcceleration": "canvas",
 		"files.trimTrailingWhitespace": true,
 		"indentRainbow.includedLanguages": [
